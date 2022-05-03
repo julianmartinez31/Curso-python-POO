@@ -1,0 +1,2 @@
+Hola este es mi primer repositorio
+Lo hara para llevar el record del curso de programación orientada a objetos en python
