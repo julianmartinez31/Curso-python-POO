@@ -16,5 +16,3 @@ if __name__ == '__main__':
     print(rectangulo.area())
 
     cuadrado = cuadrado(lado=5)
-    print(cuadrado.area())
-    
